@@ -8,8 +8,7 @@ This project explores a **hybrid forecasting approach** by combining **Google's 
 - Focuses on capturing both long-term dependencies and local sequential patterns in financial datasets.  
 
 ## Code
-The main implementation is provided in this repository:  
-- [`TimesFM_LSTM_Hybrid.ipynb`](TimesFM_LSTM_Hybrid.ipynb)  
+The main implementation is provided in the repository.
 
 ## How to Use
 1. Open the notebook in Google Colab.  
